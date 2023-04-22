@@ -1,0 +1,22 @@
+{
+    "nome": "Maires Souza",
+    "cidade": "São Paulo",
+    "telefonne": 99999999999,
+    "livros favoritos": [
+        "O pequeno prícipe",
+        "DayTripper",
+        "Moreninha"
+    ],
+    "hobbies": {
+        "semana": "patinação",
+        "fim_de_semana": {
+            "Sábado": "cinema",
+            "Domingo": "Parque",
+            "outros": [
+                "caminhada",
+                "volei",
+                "netflix"
+            ]
+        } 
+    }
+}
